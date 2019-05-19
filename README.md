@@ -1,7 +1,6 @@
----
-title: Cálculo numérico
-author: Henrique Freitas
----
+#Cálculo numérico
 
-#Description
-Trabalhos produzidos para a disciplina de cálculo numérico em 2019
+##Descrição
+Trabalhos produzidos para a disciplina de Cálculo Numérico em 2019/1
+
+Implementação: Matlab
