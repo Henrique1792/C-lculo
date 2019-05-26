@@ -19,14 +19,6 @@ interp=0;
 
 
 
-
-
-
-
-
-
-
-
 function wk=wk_gen(v5, v10, v15)
 % gera o vetor com todos os valores de wk previamente calculados
 % @param: vetores de 5 posições, de 10 posições e de 15 posições
